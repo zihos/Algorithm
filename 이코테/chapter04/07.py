@@ -1,8 +1,6 @@
 #럭키 스트레이트
 n = input()
-
 half = int(len(n)/2)
-
 num = int(n)
 
 left=0
